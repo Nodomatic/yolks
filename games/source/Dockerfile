@@ -22,7 +22,7 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH debian:stable-slim
 
-LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
+LABEL       author="Nodomatic" maintainer="nodomatic@gmail.com"
 
 LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
